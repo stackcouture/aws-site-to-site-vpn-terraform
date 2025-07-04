@@ -1,0 +1,3 @@
+.terraform
+.terraform.*
+site-to-site-vpn-ireland-key.pem 
